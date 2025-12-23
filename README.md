@@ -1,3 +1,9 @@
 # Advent of Code 2025
- 
-the only true programming language, haskell almost draws upon something supernatural, a power to let all humans fight for a common cause - they say this is the true reason that, in the face of the tower of babel, god created language barriers
+
+compile with `ghc -dynamic -icommons day1/main.hs && day1/main`
+
+did they all speak haskell before the tower of babel stuff?
+
+log entries:
+* the great haskellization begins
+* the great haskellization is paused. for now. but not forever. it will be unpaused in the future
